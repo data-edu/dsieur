@@ -1,5 +1,3 @@
-<br>
-<br>
-
-
-## Hands-On Machine Learning with R
+---
+title: "Data Science in Education Using R"
+---

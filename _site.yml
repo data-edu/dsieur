@@ -7,9 +7,9 @@ navbar:
     - icon: fa-home fa-lg
       href: index.html
     - text: Bookdown Repository
-        href: https://github.com/data-edu/data-science-in-education/
-    - text: {dataedu} Package
-        href: https://github.com/data-edu/dataedu
+      href: https://github.com/data-edu/data-science-in-education
+    - text: dataedu Package
+      href: https://github.com/data-edu/dataedu
 
 output:
   html_document:
