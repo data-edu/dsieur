@@ -1,3 +1,5 @@
 ---
 title: "Data Science in Education Using R"
 ---
+
+Welcome to the supplementary website for [*Data Science in Education Using R*](datascienceineducation.com). 

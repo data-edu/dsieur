@@ -1,5 +1,6 @@
 name: "dsieur"
 output_dir: "docs"
+exclude: [""]
 navbar:
   title: "DSIEUR"
   left:
