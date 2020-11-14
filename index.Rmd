@@ -1,5 +1,30 @@
 ---
 title: "Data Science in Education Using R"
+geometry: "top=1cm,bottom=2cm"
 ---
+<br>
 
-Welcome to the supplementary website for [*Data Science in Education Using R*](datascienceineducation.com). 
+<a href="https://www.routledge.com/Data-Science-in-Education-Using-R/Estrellado-Freer-Mostipak-Rosenberg-Velasquez/p/book/9780367422257"><img src="https://images.routledge.com/common/jackets/amazon/978036742/9780367422257.jpg"  style="float:right; margin: 0px 0px 0px 10px; width: 40%; height: 40%;" /></a>
+
+#### Ryan A. Estrellado, Emily A. Freer, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez
+
+Welcome to the supplementary website for [*Data Science in Education Using R*](datascienceineducation.com).
+
+This website provides additional content and resources to supplement the hard copy such as:
+
+* A [hyperlink](https://data-edu.github.io/dataedu/) to the {dataedu} package website.
+* External blog posts that we have written on the book.
+
+### Contributing to the Book
+
+We thank all of you who have provided guidance, feedback, and fixes for the book.
+
+Here are various ways to contribute further:
+
+* Submit an “issue” to our [GitHub repository](https://github.com/data-edu/data-science-in-education/issues) that describes a data science problem that is unique to the education setting
+* Submit a pull request to share a solution for the problems discussed in the book to the education setting
+* Share an anonymized dataset for use in the book (or a future version of it)
+
+If you are new to data science in education, welcome! We would love to have your feedback by [email](authors@datascienceineducation.com).
+
+We hope that as the book evolves, it grows to reflect the changing needs of data scientists in education.

@@ -6,13 +6,34 @@ navbar:
   left:
     - icon: fa-home fa-lg
       href: index.html
-    - text: Bookdown
-      href: https://github.com/data-edu/data-science-in-education
     - text: dataedu Package
-      href: https://github.com/data-edu/dataedu
+      href: https://data-edu.github.io/dataedu/
     - text: Blog Posts
-    
+      menu:
+      - text: "RViews:"
+      - text: "Community and Collaboration: Writing a Book in the Open"
+        href: https://rviews.rstudio.com/2020/05/26/community-and-collaboration-writing-our-book-in-the-open/
+      - text: "Learning R With Education Datasets"
+        href: https://rviews.rstudio.com/2020/06/11/learning-r-with-education-datasets/
+      - text: "Open-Source Authorship of Data Science in Education Using R"
+        href: https://rviews.rstudio.com/2020/07/01/open-source-authorship-of-data-science-in-education-using-r/
+      - text: "Party with R: How the Community Enabled Us to Write a Book"
+        href: https://rviews.rstudio.com/2020/08/03/party-with-r-how-the-community-enabled-us-to-write-a-book/
+      - text: "RStudio Education:"
+      - text: "Writing Data Science in Education Using R in the Open"
+        href: "https://education.rstudio.com/blog/2020/10/ds-in-edu/"
+    - icon: fa-book fa-lg
+      href: https://datascienceineducation.com/
+    - icon: fa-amazon fa-lg
+      href: https://www.amazon.com/Data-Science-Education-Using-R/dp/0367422255
+    - icon: fa-github fa-lg
+      href: https://github.com/data-edu/data-science-in-education
+        
+      
+      
 output:
   html_document:
     theme: cosmo
     highlight: textmate
+    include:
+    css: style.css
