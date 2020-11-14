@@ -8,7 +8,7 @@ geometry: "top=1cm,bottom=2cm"
 
 #### Ryan A. Estrellado, Emily A. Freer, Jesse Mostipak, Joshua M. Rosenberg, and Isabella C. Velásquez
 
-Welcome to the supplementary website for [*Data Science in Education Using R*](datascienceineducation.com).
+Welcome to the supplementary website for [*Data Science in Education Using R*](https://datascienceineducation.com/).
 
 This website provides additional content and resources to supplement the hard copy such as:
 
