@@ -28,9 +28,11 @@ navbar:
       href: https://www.amazon.com/Data-Science-Education-Using-R/dp/0367422255
     - icon: fa-github fa-lg
       href: https://github.com/data-edu/data-science-in-education
-        
-      
-      
+    - icon: fa-slack fa-lg
+      href: https://join.slack.com/t/dataedu/shared_invite/zt-9jkexbww-QxFbexhFoanFicVWaEpyBA
+    - icon: fa-youtube fa-lg
+      href: https://www.youtube.com/channel/UCQykFdibbRmiZkpNN_8EOkg/featured
+
 output:
   html_document:
     theme: cosmo
