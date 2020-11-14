@@ -32,6 +32,8 @@ navbar:
       href: https://join.slack.com/t/dataedu/shared_invite/zt-9jkexbww-QxFbexhFoanFicVWaEpyBA
     - icon: fa-youtube fa-lg
       href: https://www.youtube.com/channel/UCQykFdibbRmiZkpNN_8EOkg/featured
+    - icon: fa-envelope fa-lg
+      href: mailto:authors@datascienceineducation.com
 
 output:
   html_document:
