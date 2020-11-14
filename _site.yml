@@ -1,0 +1,17 @@
+name: "dsieur"
+output_dir: "docs"
+exclude: [""]
+navbar:
+  title: "DSIEUR"
+  left:
+    - icon: fa-home fa-lg
+      href: index.html
+    - text: Bookdown Repository
+        href: https://github.com/data-edu/data-science-in-education/
+    - text: {dataedu} Package
+        href: https://github.com/data-edu/dataedu
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
