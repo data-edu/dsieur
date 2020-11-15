@@ -8,6 +8,8 @@ navbar:
       href: index.html
     - text: dataedu Package
       href: https://data-edu.github.io/dataedu/
+    - text: Persona Profiles
+      href: https://drive.google.com/drive/folders/1ceEOZl-dUCJA0BtCXYmXbNtvu3DOBW3Y?usp=sharing
     - text: Blog Posts
       menu:
       - text: "RViews:"
